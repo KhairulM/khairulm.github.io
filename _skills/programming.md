@@ -1,5 +1,5 @@
 ---
 category: Programming
-tags: [C++, Python, Tcl, Matlab, PHP, NodeJS, Dart]
+tags: [C++, Python, JavaScript]
 order: 1
 ---
