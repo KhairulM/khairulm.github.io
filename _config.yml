@@ -33,7 +33,7 @@ collections:
     sort_by: order
   projects:
     output: false
-    sort_by: year
+    sort_by: -year
   skills:
     output: false
     sort_by: order
@@ -48,7 +48,7 @@ collections:
     sort_by: year
   achievements:
     output: false
-    sort_by: year
+    sort_by: order
 
 # About Page Options
 collection_option:
