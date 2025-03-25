@@ -21,7 +21,7 @@ social:
     handle: khairulmakirin
   twitter: 
     visibility: false
-    handle: arnobdotme
+    handle: khairul
 
 # Collections
 collections:
@@ -32,7 +32,7 @@ collections:
     output: false
     sort_by: order
   projects:
-    output: true
+    output: false
     sort_by: year
   skills:
     output: false
@@ -72,7 +72,7 @@ collection_option:
     visibility: true
   certifications: 
     label: Certifications
-    visibility: true
+    visibility: false
   achievements: 
     label: Achievements
     visibility: true
